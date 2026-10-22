@@ -1,0 +1,22 @@
+{
+  "name": "bitacora-cli",
+  "version": "1.0.0",
+  "description": "Programa creado para registrar notas desde terminal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "registro",
+    "node",
+    "notas",
+    "terminal"
+  ],
+  "author": "Emmanuel Gomez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
